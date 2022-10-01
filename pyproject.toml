@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "datasciencematerial"
+version = "0.1.0"
+description = ""
+authors = ["udhay Prakash <uday3prakash@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[tool.poetry.group.dev.dependencies]
+ipython = "^8.5.0"
+ipykernel = "^6.16.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
