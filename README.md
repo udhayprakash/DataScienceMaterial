@@ -28,6 +28,8 @@ Data Science with Python
      - PyTorch
      - TensorFlow
      - XgBoost
+     - NLTK
+     - Gensim
    - Data Visualization
      - Matplotlib
      - Seaborn
@@ -60,3 +62,9 @@ Kaggle
 
 clasfication
 preprpocessing
+
+
+Learning Data Science
+  - http://www.textbook.ds100.org/intro.html
+
+ml Version Control System   https://dvc.org/
