@@ -8,11 +8,13 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 seaborn = "^0.12.0"
+whisper = {git = "https://github.com/openai/whisper.git"}
 
 
 [tool.poetry.group.dev.dependencies]
 ipython = "^8.5.0"
 ipykernel = "^6.16.0"
+jupyter = "^1.0.0"
 
 [build-system]
 requires = ["poetry-core"]
