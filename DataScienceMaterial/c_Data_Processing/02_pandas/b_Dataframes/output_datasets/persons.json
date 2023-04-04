@@ -1,0 +1,5 @@
+{
+  "ages": { "0": 99, "1": 88, "2": 66, "3": 22 },
+  "names": { "0": "Ramesh", "1": "suresh", "2": "Ganesh", "3": "Mahesh" },
+  "randomData": { "0": 11.5, "1": null, "2": null, "3": true }
+}
