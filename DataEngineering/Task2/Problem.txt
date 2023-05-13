@@ -1,0 +1,9 @@
+Create a data model to support person functionality in the student information system.
+
+1 - The information will be related to the student life cycle administration, The person will appear in the system in different roles as Student, Advisor, Faculty, Staff..
+
+The system supposes to maintain the person’s biographical and demographical information as : DOB, name, gender, religion, immigration_status…Some information are specific to the person’s role, ex: graduation_year, or academic_level(graduate, under graduate) are only needed to the student’s person. The duty is only needed in the staff ’s person…
+
+2 - Person could be affiliated to one or more organizations (schools) in connection to his particular role, ex: the advisor Bob Dupont, could advise the students from the schools of Art and Science.
+
+3 - Person has one or more email addresses. The person define his primary email. The administrator could contact the person on his personal, or work emails.

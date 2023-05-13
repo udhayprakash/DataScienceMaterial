@@ -1,0 +1,44 @@
+{
+  "collectionType": "gtin_packaging",
+  "createdBy": "XXXX",
+  "createdDate": "2021-12-23",
+  "productId": "123",
+  "origin": "packaging_data",
+  "packagingData": {
+    "primary": {
+      "components": {
+        "Lid": [
+          {
+            "Colour": "Clear",
+            "Depth(mm)": 192.5,
+            "Height(mm)": 21.2,
+            "Width(mm)": 123.5,
+            "material": {
+              "Plastic": {
+                "Detectable": "NotDetectable",
+                "FlexibleorRigid": "Rigid"
+              }
+            }
+          }
+        ],
+        "Tub": [
+          {
+            "Colour": "Clear",
+            "Depth(mm)": 196,
+            "Height(mm)": 58,
+            "Width(mm)": 127,
+            "material": {
+              "Plastic": {
+                "Detectable": "NotDetectable",
+                "FlexibleorRigid": "Rigid"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "event": {
+    "timestamp": "2023-03-02T07:10:36Z"
+  }
+}
