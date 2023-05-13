@@ -9,6 +9,10 @@ readme = "README.md"
 python = "^3.10"
 seaborn = "^0.12.0"
 whisper = {git = "https://github.com/openai/whisper.git"}
+numpy = "^1.24.2"
+pandas = "^2.0.0"
+matplotlib = "^3.7.1"
+watermark = "^2.3.1"
 
 
 [tool.poetry.group.dev.dependencies]
