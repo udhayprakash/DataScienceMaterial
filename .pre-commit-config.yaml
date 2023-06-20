@@ -16,14 +16,8 @@ repos:
       - id: check-symlinks
       - id: check-toml
       - id: check-xml
-      # - id: check-yaml
-      #   args: [--allow-multiple-documents]
-      - id: debug-statements
-        exclude: |
-          (?x)(
-              ^python3/05_Debugging/ |
-              ^python3/14_Code_Quality/python_2to3_ex.py
-          )
+      - id: check-yaml
+        args: [--allow-multiple-documents]
       - id: detect-aws-credentials
         args:
           - --allow-missing-credentials
@@ -61,7 +55,7 @@ repos:
         exclude: python3/14_Code_Quality/python_2to3_ex.py
 
   - repo: https://github.com/sirosen/check-jsonschema
-    rev: 0.23.0 # checks for Github Actions CI config files
+    rev: 0.23.2 # checks for Github Actions CI config files
     hooks:
       - id: check-github-actions
       - id: check-github-workflows
