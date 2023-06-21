@@ -4,8 +4,6 @@ Data Science with Python
 
 [![Udhay's GitHub activity graph](https://img.shields.io/github/commit-activity/m/udhayprakash/DataScienceMaterial?label=Commit%20Activity&logo=github&style=flat-square)](https://github.com/udhayprakash/DataScienceMaterial)
 
-[![GitHub Activity Graph](https://ashutosh00710.github.io/github-readme-activity-graph/?username=udhayprakash&repo=DataScienceMaterial&theme=light)](https://github.com/udhayprakash/DataScienceMaterial)
-
 
 ## Data Generation
 
