@@ -1,14 +1,12 @@
-#!usr/bin/env python
 """
 Purpose: Numpy module
-"""
-from numpy import *  # Another way of importing
 
-"""
     Array is similar to list in python, except that
     every element of an array must be of the same type,
     typically a numeric type like FLOAT or INT.
 """
+import numpy as np
+
 # Integer type array
 a = np.array(
     [
