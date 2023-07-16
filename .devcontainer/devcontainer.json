@@ -1,7 +1,7 @@
 {
     "name": "Python Jupyter Notebook with Pandas",
     "image": "python-jupyter-notebook",
-    "workspaceFolder": "/app",
+    "workspaceFolder": "/",
     "customizations": {
         "vscode": {
             "extensions": [
