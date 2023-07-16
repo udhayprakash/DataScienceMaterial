@@ -1,0 +1,14 @@
+{
+    "name": "Python Jupyter Notebook with Pandas",
+    "image": "python-jupyter-notebook",
+    "workspaceFolder": "/app",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-vscode-remote.remote-containers",
+                "ms-python.python",
+                "ms-vscode-docker.docker"
+            ]
+        }
+    }
+}
